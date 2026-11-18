@@ -34,10 +34,11 @@ pip install -r requirements.txt
 
 ```bash
 python src/main.py 
+```
 
 ## 📁 Структура проекта и данные
 
-- `/test_csvs/`: примеры данных для тестов программы;
-- `/doc/GUI/`: скриншоты gui программы(на macos);
-- `/doc/DESCRIPTION.md`: описание gui;
-- `/src/`: исходники;
+- `/test_csvs/`: примеры данных для тестов программы
+- `/doc/GUI/`: скриншоты gui программы (на macOS)
+- `/doc/DESCRIPTION.md`: описание GUI
+- `/src/`: исходники
